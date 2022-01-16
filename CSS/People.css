@@ -1,0 +1,58 @@
+﻿.content {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.Level2Team {
+    margin-top: 20px;
+}
+
+img {
+    max-width: 350px;
+    max-height: 100%;
+    display: block;
+}
+
+.home-left {
+    width: 500px;
+}
+
+.home-right {
+    width: 500px;
+    float:right;
+}
+
+.page-header {
+    height: 50px;
+    background-color: black;
+    vertical-align: middle;
+}
+
+.header-action {
+    font-size: 18px;
+    vertical-align: middle;
+}
+
+.header-a {
+    color: white;
+    vertical-align: middle;
+    cursor: pointer;
+}
+
+.header-a-next {
+    color: white;
+    vertical-align: middle;
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+.header-a-right {
+    color: white;
+    vertical-align: middle;
+    float: right;
+    cursor: pointer;
+}
+
+.error-message {
+    color:red;
+}
